@@ -1,7 +1,10 @@
 {
-  "versionCode": 117,
-  "versionName": "1.1.7",
+  "version": "12.9.5",
+  "build": "2026.10.07",
+  "name": "Zaki TV",
+  "updateUrl": "https://www.mediafire.com/file/lbielz1t4s5ajkq/ZakiTV-12.9.5-viewer.apk/file",
+  "downloadUrl": "https://www.mediafire.com/file/lbielz1t4s5ajkq/ZakiTV-12.9.5-viewer.apk/file",
+  "releaseNotes": "https://www.mediafire.com/file/lbielz1t4s5ajkq/ZakiTV-12.9.5-viewer.apk/file",
   "forceUpdate": true,
-  "downloadUrl": "",
-  "message": "يتوفر إصدار جديد من Zaki TV. يجب تحديث التطبيق إلى الإصدار 117 للمتابعة."
+  "message": "يرجى تحديث التطبيق حتى تحصل على مزايا جديدة"
 }
